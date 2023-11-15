@@ -10,6 +10,15 @@
  ---
  
 <div style="center" align="center">
+ - Social Media:
+
+  - [![Twitter](https://img.shields.io/twitter/follow/0xOrgbwh?style=social)](https://twitter.com/0xorgbwh)
+
+  - [![](https://img.shields.io/static/v1?label=Telegram&message=%E2%9D%A4&logo=Telegram&color=%23e609e6)](https://t.me/Orangbawah9)
+
+  - [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23e609e6)](https://github.com/Dwanx-9)
+
+    
  <img src="https://github-profile-trophy.vercel.app/?username=Dwanx-9&theme=onedark&rank=-C"/>
 </div>
  
@@ -54,13 +63,7 @@
 
 ---
 
-- Social Media:
 
-  - [![Twitter](https://img.shields.io/twitter/follow/0xOrgbwh?style=social)](https://twitter.com/0xorgbwh)
-
-  - [![](https://img.shields.io/static/v1?label=Telegram&message=%E2%9D%A4&logo=Telegram&color=%23e609e6)](https://t.me/Orangbawah9)
-
-  - [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23e609e6)](https://github.com/Dwanx-9)
 
 ---
 
