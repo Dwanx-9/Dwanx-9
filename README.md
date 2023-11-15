@@ -10,8 +10,15 @@
  ---
  
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dwanx-9&theme=onedark&rank=-C"/>
+
+ 
+ <img src="https://github-profile-trophy.vercel.app/?username=Dwanx-9&theme=onedark&rank=-C"/>
+
+
 </div>
+ 
+ 
+ ---
  
  <div align="center">
 
@@ -21,7 +28,7 @@
 
 </div>
 
-<br/>
+
 
 <!--
 
