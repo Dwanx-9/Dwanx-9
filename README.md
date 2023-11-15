@@ -9,12 +9,8 @@
 
  ---
  
-<div align="center">
-
- 
+<div align="flex-center">
  <img src="https://github-profile-trophy.vercel.app/?username=Dwanx-9&theme=onedark&rank=-C"/>
-
-
 </div>
  
  
