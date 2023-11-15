@@ -36,12 +36,11 @@
 
 <!--
 
-[![](https://github-readme-stats.vercel.app/api?username=Megumiiiiii&show_icons=true&theme=jolly&show=discussions_started,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=Dwanx0&show_icons=true&theme=jolly&show=discussions_started,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
    
-https://github.com/Megumiiiiii/Megumiiiiii/assets/98658943/696b96d6-b805-42e3-b7a6-590f58d7014a
 
   </div>
 </div>
@@ -56,7 +55,7 @@ https://github.com/Megumiiiiii/Megumiiiiii/assets/98658943/696b96d6-b805-42e3-b7
   
 | Role | Community | Date Started |
 |----------|---------------------|---------------|
-| Pharaoh | [![dev chat](https://t.me/cryptoizoffice/26897)]([https://t.me/cryptoizoffice/26897]) | 17 Feb 2023 | 
+| Cryptoiz | [![dev chat]([https://t.me/cryptoizoffice/26897](https://t.me/cryptoizoffice/26897))]([https://t.me/cryptoizoffice/26897]) | 17 Feb 2023 | 
 
 </div>
 
@@ -71,8 +70,8 @@ https://github.com/Megumiiiiii/Megumiiiiii/assets/98658943/696b96d6-b805-42e3-b7
 
 </br>
  
-[<img align="center" src='https://github.com/Dwanx-9/Redmi.md/blob/main/cryptoiz%20new.png' alt='mises'  width='150' heigth='150'>](https://staking.creditcoin.org/#/validators)
-[<img align="center" src='https://raw.githubusercontent.com/Megumiiiiii/Megumiiiiii/main/sarco.jpg' alt='sarco' width='150' heigth='150'>](https://app.dev.sarcophagus.io/archaeologists)
+[<img align="center" src='https://github.com/Dwanx-9/Redmi.md/blob/main/cryptoiz%20new.png' alt='mises'  width='150' heigth='150'>]([https://staking.creditcoin.org/#/validators](https://t.me/cryptoizoffice/26897))
+
 </kbd>
 
  
@@ -83,7 +82,7 @@ https://github.com/Megumiiiiii/Megumiiiiii/assets/98658943/696b96d6-b805-42e3-b7
 ---
 
 <div id="footer" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNmZTIxZmE3ZmY3MzRiMDcwNDJhYTQ5ZmNlY2YxMWE1OWIyYmVkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/mVBlqOD4ra9jQiI3cC/giphy.gif" height="125" width="420"/>
+
 </div>
 
 
