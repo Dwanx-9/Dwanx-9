@@ -1,19 +1,16 @@
 <div align="center">
  
-[<img align="center" src='https://raw.githubusercontent.com/Megumiiiiii/Megumiiiiii/main/followpoint-60%20-%20Copy%20-%20Copy%20-%20Copy%20-%20Copy.png' alt='otherLink' height='68'>](https://megumii.blessingway.xyz)
+[<img align="center" src='https://github.com/Dwanx-9/Redmi.md/blob/main/Bot-orange.png' alt='otherLink' height='68'>](https://github.com/Dwanx-9)
 
 ![](https://komarev.com/ghpvc/?username=Dwanx-9&color=blueviolet&style=plastic&label=Visitors)
 
 </div>
 
  ---
- <a href="https://discordapp.com/users/873803230042263563" target="_blank" rel="nofollow">
-   <img src="https://lanyard.cnrad.dev/api/873803230042263563?idleMessage=:doing%20something%20else...&bg=51177a" alt="Discord Presence" align="right">
-</a>
 
 - Social Media:
 
-  - [![Twitter](https://img.shields.io/twitter/follow/megumii?style=social)](https://twitter.com/megumii_tez)
+  - [![Twitter](https://img.shields.io/twitter/follow/0xOrgbwh?style=social)](https://twitter.com/0xorgbwh)
 
   - [![](https://img.shields.io/static/v1?label=Telegram&message=%E2%9D%A4&logo=Telegram&color=%23e609e6)](https://t.me/Orangbawah9)
 
@@ -26,11 +23,11 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Dwanx-9&theme=onedark&rank=-C"/>
  
-<img src="https://raw.githubusercontent.com/Megumiiiiii/Suiiiiiiiiiiiiii/main/profile-summary-card-output/jolly/0-profile-details.svg"/>
+<img src="https://raw.githubusercontent.com/Dwanx-9/Suiiiiiiiiiiiiii/main/profile-summary-card-output/jolly/0-profile-details.svg"/>
 
-<img src="https://raw.githubusercontent.com/Megumiiiiii/Suiiiiiiiiiiiiii/main/profile-summary-card-output/jolly/1-repos-per-language.svg"/> <img src="https://raw.githubusercontent.com/Megumiiiiii/Suiiiiiiiiiiiiii/main/profile-summary-card-output/jolly/3-stats.svg"/>
+<img src="https://raw.githubusercontent.com/Dwanx-9/Suiiiiiiiiiiiiii/main/profile-summary-card-output/jolly/1-repos-per-language.svg"/> <img src="https://raw.githubusercontent.com/Megumiiiiii/Suiiiiiiiiiiiiii/main/profile-summary-card-output/jolly/3-stats.svg"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Megumiiiiii&theme=deuteranopia-friendly-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=512"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dwanx-9&theme=deuteranopia-friendly-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=512"/>
 
 
 </div>
