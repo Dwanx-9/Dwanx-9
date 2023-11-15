@@ -8,10 +8,13 @@
 
 
  ---
+ 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Dwanx-9&theme=onedark&rank=-C"/>
+</div>
  
-<img src="https://raw.githubusercontent.com/Dwanx-9/Suiiiiiiiiiiiiii/main/profile-summary-card-output/jolly/1-repos-per-language.svg"/> <img src="https://raw.githubusercontent.com/Megumiiiiii/Suiiiiiiiiiiiiii/main/profile-summary-card-output/jolly/3-stats.svg"/>
+ <div align="center">
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Dwanx-9&theme=deuteranopia-friendly-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=512"/>
 
@@ -40,9 +43,9 @@
 ### Active Jobs
   [<img align="center" src='https://github.com/Dwanx-9/Redmi.md/blob/main/cryptoiz%20new.png' alt='mises'  width='150' heigth='150'>]([https://staking.creditcoin.org/#/validators](https://t.me/cryptoizoffice/26897))
   
-| Role | Date Started |
+| Role | Community | Date Started |
 |----------|---------------|
-| Cryptoiz | 5 April 2023 | 
+| Cryptoiz |  [![Twitter](https://img.shields.io/static/v1?label=Telegram&message=25,457&logo=Telegram&color=48bffa)](https://t.me/cryptoizoffice) | 5 April 2023 | 
 
 </div>
 
