@@ -52,10 +52,11 @@
 <div align="center">
   
 ### Active Jobs
+  [<img align="center" src='https://github.com/Dwanx-9/Redmi.md/blob/main/cryptoiz%20new.png' alt='mises'  width='150' heigth='150'>]([https://staking.creditcoin.org/#/validators](https://t.me/cryptoizoffice/26897))
   
-| Role | Community | Date Started |
-|----------|---------------------|---------------|
-| Cryptoiz | [![dev chat]([https://t.me/cryptoizoffice/26897](https://t.me/cryptoizoffice/26897))]([https://t.me/cryptoizoffice/26897]) | 17 Feb 2023 | 
+| Role | Date Started |
+|----------|---------------|
+| Cryptoiz | 5 April 2023 | 
 
 </div>
 
@@ -70,7 +71,7 @@
 
 </br>
  
-[<img align="center" src='https://github.com/Dwanx-9/Redmi.md/blob/main/cryptoiz%20new.png' alt='mises'  width='150' heigth='150'>]([https://staking.creditcoin.org/#/validators](https://t.me/cryptoizoffice/26897))
+
 
 </kbd>
 
