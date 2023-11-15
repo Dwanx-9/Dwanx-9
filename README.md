@@ -19,7 +19,7 @@
    [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23e609e6)](https://github.com/Dwanx-9)
 
    
- <img src="https://github-profile-trophy.vercel.app/?username=Dwanx-9&theme=onedark&rank=-C"/>
+ <img style="center" src="https://github-profile-trophy.vercel.app/?username=Dwanx-9&theme=onedark&rank=-C"/>
 </div>
  
  
