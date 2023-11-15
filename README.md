@@ -44,7 +44,7 @@
   [<img align="center" src='https://github.com/Dwanx-9/Redmi.md/blob/main/cryptoiz%20new.png' alt='mises'  width='150' heigth='150'>]([https://staking.creditcoin.org/#/validators](https://t.me/cryptoizoffice/26897))
   
 | Role | Community | Date Started |
-|----------|---------------|
+|----------|---------------------|---------------|
 | Cryptoiz |  [![Twitter](https://img.shields.io/static/v1?label=Telegram&message=25,457&logo=Telegram&color=48bffa)](https://t.me/cryptoizoffice) | 5 April 2023 | 
 
 </div>
