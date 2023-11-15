@@ -2,7 +2,7 @@
  
 [<img align="center" src='https://raw.githubusercontent.com/Megumiiiiii/Megumiiiiii/main/followpoint-60%20-%20Copy%20-%20Copy%20-%20Copy%20-%20Copy.png' alt='otherLink' height='68'>](https://megumii.blessingway.xyz)
 
-![](https://komarev.com/ghpvc/?username=Dwanx9/&color=blueviolet&style=plastic&label=Visitors)]()
+![](https://komarev.com/ghpvc/?username=Dwanx-9&color=blueviolet&style=plastic&label=Visitors)]()
 
 </div>
 
