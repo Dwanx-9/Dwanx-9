@@ -2,7 +2,7 @@
  
 [<img align="center" src='https://raw.githubusercontent.com/Megumiiiiii/Megumiiiiii/main/followpoint-60%20-%20Copy%20-%20Copy%20-%20Copy%20-%20Copy.png' alt='otherLink' height='68'>](https://megumii.blessingway.xyz)
 
-[![](https://komarev.com/ghpvc/?username=Megumiiiiii&color=e609e6&style=plastic&label=Visitors)]()
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=plastic&label=Visitors)]()
 
 </div>
 
@@ -15,16 +15,16 @@
 
   - [![Twitter](https://img.shields.io/twitter/follow/megumii?style=social)](https://twitter.com/megumii_tez)
 
-  - [![](https://img.shields.io/static/v1?label=Telegram&message=%E2%9D%A4&logo=Telegram&color=%23e609e6)](https://KatouMegumii.t.me)
+  - [![](https://img.shields.io/static/v1?label=Telegram&message=%E2%9D%A4&logo=Telegram&color=%23e609e6)](https://t.me/Orangbawah9)
 
-  - [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23e609e6)](https://github.com/sponsors/Megumiiiiii)
+  - [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23e609e6)](https://github.com/Dwanx-9)
 
  
 <div align="center">
 
  ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=Megumiiiiii&theme=onedark&rank=-C"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dwanx-9&theme=onedark&rank=-C"/>
  
 <img src="https://raw.githubusercontent.com/Megumiiiiii/Suiiiiiiiiiiiiii/main/profile-summary-card-output/jolly/0-profile-details.svg"/>
 
