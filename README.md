@@ -58,7 +58,7 @@
   
 | Role     | Community           | Date Started  |
 |----------|---------------------|---------------|
-| Cryptoiz |  [![Twitter](https://img.shields.io/static/v1?label=Telegram&message=25,457&logo=Telegram&color=48bffa)](https://t.me/cryptoizoffice) | 2023 | 
+| Remote |  [![Twitter](https://img.shields.io/static/v1?label=Telegram&message=25,457&logo=Telegram&color=48bffa)](https://t.me/cryptoizoffice) | 2023 | 
 
 </div>
 
