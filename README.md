@@ -50,15 +50,15 @@
 
 
 
-<div align="center">
+<div align="center" grid="grid-col">
   
 ### Active Jobs
   [<img align="center" src='https://github.com/Dwanx-9/Redmi.md/blob/main/logo.png' alt='mises'  width='150' heigth='150'>]([https://staking.creditcoin.org/#/validators](https://t.me/cryptoizoffice/26897))
-  [<img align="center" src='https://github.com/Dwanx-9/Redmi.md/blob/main/hero-pattern.svg' alt='mises'  width='150' heigth='150'>]([https://serenity-blog.vercel.app](https://t.me/serenitymosaic))
+  [<img align="center" src='https://github.com/Dwanx-9/Redmi.md/blob/main/seren.svg' alt='mises'  width='150' heigth='150'>]([https://serenity-blog.vercel.app](https://t.me/serenitymosaic))
   
 | Role     | Community           | Date Started  |
 |----------|---------------------|---------------|
-| Cryptoiz |  [![Twitter](https://img.shields.io/static/v1?label=Telegram&message=25,457&logo=Telegram&color=48bffa)](https://t.me/cryptoizoffice) | 5 April 2023 | 
+| Cryptoiz |  [![Twitter](https://img.shields.io/static/v1?label=Telegram&message=25,457&logo=Telegram&color=48bffa)](https://t.me/cryptoizoffice) | 2023 | 
 
 </div>
 
