@@ -53,7 +53,8 @@
 <div align="center">
   
 ### Active Jobs
-  [<img align="center" src='https://github.com/Dwanx-9/Redmi.md/blob/main/cryptoiz%20new.png' alt='mises'  width='150' heigth='150'>]([https://staking.creditcoin.org/#/validators](https://t.me/cryptoizoffice/26897))
+  [<img align="center" src='https://github.com/Dwanx-9/Redmi.md/blob/main/logo.png' alt='mises'  width='150' heigth='150'>]([https://staking.creditcoin.org/#/validators](https://t.me/cryptoizoffice/26897))
+  [<img align="center" src='https://github.com/Dwanx-9/Redmi.md/blob/main/hero-pattern.svg' alt='mises'  width='150' heigth='150'>]([https://serenity-blog.vercel.app](https://t.me/serenitymosaic))
   
 | Role     | Community           | Date Started  |
 |----------|---------------------|---------------|
